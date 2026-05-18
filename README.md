@@ -152,13 +152,3 @@ Focused on building:
 - Creative Engineering Systems
 
 ---
-
-## Recommended Commit Style
-
-```txt
-feat: add authentication flow
-fix: optimize scene rendering
-refactor: improve API architecture
-style: enhance mobile responsiveness
-perf: reduce bundle size
-```
